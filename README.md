@@ -5,36 +5,36 @@ An online furniture shop that allows users to check for various furniture availa
 <br><br>
 
 ## Necessity of the Project
-The intention of this project is to make it as comfortable and pleasant for our users as possible. Through this project, our customers can shop through our catalogue in the comforts of their home with no restrictions on time. Our website will be accessible 24x7.
+The intention of this project is to make it as comfortable and pleasant for our users as possible. Through this project, our customers can shop through our catalogue in the comforts of their home with no restrictions on time. Our website will be accessible 24x7. <br>
 
-   A few benefits of the online furniture store are that:
+A few benefits of the online furniture store are that: <br><br>
 
-•	We provide cost effective goods,
-•	A wide array of selection from our premium catalogue,
-•	Discounts on large number of products,
-•	Free shipment and
-•	Reduced Stress Factor
+•	We provide cost effective goods, <br>
+•	A wide array of selection from our premium catalogue, <br>
+•	Discounts on large number of products, <br>
+•	Free shipment and <br>
+•	Reduced Stress Factor <br>
 
 <br><br>
 
 ## Entity - Relationship Diagram
 The ER Diagram of the Project is given below which depicts the entities and their relationships with one another. It also describes the attributes of each entity implemented, along with common attributes that connect multiple entities.
 
-<img src="images/ER.jpg">
+<img src="images/ER.jpg" width="600px">
 
 <br><br>
 
 ## Working Modules of the Project
 ### Customer Module
-•	The main purpose of this module allows the customer to create an account with the company and then log in to the company website through the account details created.
-•	This module is to provide all customer-related functionalities. For example, customer can view his orders and billing records.
-•	It also tracks the information and details of the customers. It includes all the create, read, update and delete operations of the customers.
+•	The main purpose of this module allows the customer to create an account with the company and then log in to the company website through the account details created. <br>
+•	This module is to provide all customer-related functionalities. For example, customer can view his orders and billing records. <br>
+•	It also tracks the information and details of the customers. It includes all the create, read, update and delete operations of the customers. <br><br>
 
 The features in this module are: <br>
-•	Admin can add new customer records  
-•	Admin can see the list of customer details 
-•	Only admin can update and edit the record of the customers 
-•	Admin will be able to delete the records of customers 
+•	Admin can add new customer records  <br>
+•	Admin can see the list of customer details <br>
+•	Only admin can update and edit the record of the customers <br>
+•	Admin will be able to delete the records of customers <br>
 
 <img src="Proj-Images/Reg.jpg">
 <img src="Proj-Images/customer-mod.jpg">
@@ -42,14 +42,14 @@ The features in this module are: <br>
 <br><br>
 
 ### Contact Us Module
-•	The main purpose of this module is to allow the customer to contact the company and communicate to the company for any possible advice, change or collaboration.
+•	The main purpose of this module is to allow the customer to contact the company and communicate to the company for any possible advice, change or collaboration. <br><br>
 
 
 The features of this Contact Us module are:  <br>
-•	Admin can view the contact list 
-•	Admin can edit/delete the contact list
-•	Customer can send any message to the admin
-•	Customer can also give details about his/her name, email and phone number
+•	Admin can view the contact list <br>
+•	Admin can edit/delete the contact list <br>
+•	Customer can send any message to the admin <br>
+•	Customer can also give details about his/her name, email and phone number <br>
 
 <img src="Proj-Images/contact.jpg">
 <img src="Proj-Images/contact-mod.jpg">
@@ -57,13 +57,13 @@ The features of this Contact Us module are:  <br>
 <br><br>
 
 ### Product Module: 
-•	In this module, customer can view all the furniture list with name, image and description. If customer needs any customization, then they can share the ideas with any furniture design. Customer can order Beds, Tables, Sofas, etc. under customized order. The price will vary for each and every customization.
+•	In this module, customer can view all the furniture list with name, image and description. If customer needs any customization, then they can share the ideas with any furniture design. Customer can order Beds, Tables, Sofas, etc. under customized order. The price will vary for each and every customization. <br><br>
 
 The features in this module are:  <br>
-•	Admin can manage the furniture  
-•	Admin can edit/delete the furniture  
-•	Admin can see the list of all furniture 
-•	Customer can see furniture 
+•	Admin can manage the furniture  <br>
+•	Admin can edit/delete the furniture  <br>
+•	Admin can see the list of all furniture <br>
+•	Customer can see furniture <br>
 
 <img src="Proj-Images/products1.jpg">
 <img src="Proj-Images/products2.jpg">
@@ -72,13 +72,13 @@ The features in this module are:  <br>
 <br><br>
 
 ### Buys module :
-•	In this module, customer can order for furniture. They can order multiple items together. After successful payment, the system displays the order reports. Finally, the customer can make payment through VISA, Debit card, Credit card, Cash on Delivery, etc.
+•	In this module, customer can order for furniture. They can order multiple items together. After successful payment, the system displays the order reports. Finally, the customer can make payment through VISA, Debit card, Credit card, Cash on Delivery, etc. <br><br>
 
 The features in this module are:  <br>
-•	Admin can manage the order
-•	Admin can edit/delete the order
-•	Admin can see the list of all order
-•	Customer can see his order
+•	Admin can manage the order <br>
+•	Admin can edit/delete the order <br>
+•	Admin can see the list of all order <br>
+•	Customer can see his order <br>
 
 <img src="Proj-Images/buys.jpg">
 <img src="Proj-Images/buys-mod.jpg">
@@ -86,13 +86,13 @@ The features in this module are:  <br>
 <br><br>
 
 ### Cart Module:
-•	In this module, all the products that the customer stores in his/her cart can be viewed by the Admin and is all the essential information along with the product such as the cart number, the quantity, the price and the total amount for each product is calculated and displayed in the relation.
+•	In this module, all the products that the customer stores in his/her cart can be viewed by the Admin and is all the essential information along with the product such as the cart number, the quantity, the price and the total amount for each product is calculated and displayed in the relation. <br><br>
 
 The features in this module are:  <br>
-•	Admin can view the cart products
-•	Admin can edit the cart products
-•	Admin can insert/delete any new cart products
-•	Customer can view his/her cart products
+•	Admin can view the cart products <br>
+•	Admin can edit the cart products <br>
+•	Admin can insert/delete any new cart products <br>
+•	Customer can view his/her cart products <br>
 
 <img src="Proj-Images/cart.jpg">
 <img src="Proj-Images/cart-mod.jpg">
