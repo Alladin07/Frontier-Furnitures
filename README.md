@@ -20,7 +20,7 @@ A few benefits of the online furniture store are that: <br><br>
 ## Entity - Relationship Diagram
 The ER Diagram of the Project is given below which depicts the entities and their relationships with one another. It also describes the attributes of each entity implemented, along with common attributes that connect multiple entities.
 
-<img src="images/ER.jpg" width="600px">
+<center><img src="images/ER.jpg" width="600px"></center>
 
 <br><br>
 
@@ -36,8 +36,8 @@ The features in this module are: <br>
 •	Only admin can update and edit the record of the customers <br>
 •	Admin will be able to delete the records of customers <br>
 
-<img src="Proj-Images/Reg.jpg">
-<img src="Proj-Images/customer-mod.jpg">
+<center><img src="Proj-Images/Reg.jpg" width="600px"></center>
+<center><img src="Proj-Images/customer-mod.jpg" width="600px"></center>
 
 <br><br>
 
@@ -51,8 +51,8 @@ The features of this Contact Us module are:  <br>
 •	Customer can send any message to the admin <br>
 •	Customer can also give details about his/her name, email and phone number <br>
 
-<img src="Proj-Images/contact.jpg">
-<img src="Proj-Images/contact-mod.jpg">
+<center><img src="Proj-Images/contact.jpg" width="600px"></center>
+<center><img src="Proj-Images/contact-mod.jpg" width="600px"></center>
 
 <br><br>
 
@@ -65,9 +65,9 @@ The features in this module are:  <br>
 •	Admin can see the list of all furniture <br>
 •	Customer can see furniture <br>
 
-<img src="Proj-Images/products1.jpg">
-<img src="Proj-Images/products2.jpg">
-<img src="Proj-Images/products-mod.jpg">
+<center><img src="Proj-Images/products1.jpg" width="600px"></center>
+<center><img src="Proj-Images/products2.jpg" width="600px"></center>
+<center><img src="Proj-Images/products-mod.jpg" width="600px"></center>
 
 <br><br>
 
@@ -80,8 +80,8 @@ The features in this module are:  <br>
 •	Admin can see the list of all order <br>
 •	Customer can see his order <br>
 
-<img src="Proj-Images/buys.jpg">
-<img src="Proj-Images/buys-mod.jpg">
+<center><img src="Proj-Images/buys.jpg" width="600px"></center>
+<center><img src="Proj-Images/buys-mod.jpg" width="600px"></center>
 
 <br><br>
 
@@ -94,8 +94,8 @@ The features in this module are:  <br>
 •	Admin can insert/delete any new cart products <br>
 •	Customer can view his/her cart products <br>
 
-<img src="Proj-Images/cart.jpg">
-<img src="Proj-Images/cart-mod.jpg">
+<center><img src="Proj-Images/cart.jpg" width="600px"></center>
+<center><img src="Proj-Images/cart-mod.jpg" width="600px"></center>
 
 <br><br>
 
